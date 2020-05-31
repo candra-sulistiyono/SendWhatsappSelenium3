@@ -37,10 +37,10 @@ def sendMessageNonContact(number,message):
     send_button.click()
     sleep(1)
 
-sendMessageNonContact("+6285773373125","Hai, ini pesan dari Python ")
+sendMessageNonContact("+6285773373125","Hi, this messahe from Python ")
 sleep(1)
-sendMessageNonContact("+6285773373125","Menggunakan Selenium dan ChromeDriver")
+sendMessageNonContact("+6285773373125","Using Selenium and ChromeDriver")
 sleep(1)
-sendMessageNonContact("+6285773373125","Terima kasih...")
+sendMessageNonContact("+6285773373125","Thanks ...")
 sleep(3)
 driver.close();
