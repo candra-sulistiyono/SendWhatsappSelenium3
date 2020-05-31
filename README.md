@@ -14,7 +14,6 @@ pip install selenium
 ```
 
 ## Create folde profile
-Please add the library using pip
 ```
 mkdir profile
 ```
