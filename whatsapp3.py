@@ -43,4 +43,5 @@ sendMessageNonContact("+6285773373125","Using Selenium and ChromeDriver")
 sleep(1)
 sendMessageNonContact("+6285773373125","Thanks ...")
 sleep(3)
-driver.close();
+driver.close()
+driver.quit()
